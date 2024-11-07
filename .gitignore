@@ -1,0 +1,23 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Paket lock (jika ada)
+package-lock.json
+yarn.lock
+
+# File konfigurasi lokal
+.env
+
+# Sistem operasi atau editor IDE
+.vscode/
+.DS_Store
+
+# File build atau output
+dist/
+build/
+
+# Temporary files
+*.tmp
