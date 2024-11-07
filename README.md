@@ -8,8 +8,9 @@ Aplikasi ini memungkinkan pengguna untuk menentukan durasi sesi kerja dan sesi i
 
 ## 1. Instalasi Dependensi
 Sebelum menjalankan aplikasi ini, pastikan Anda sudah menginstal Node.js dan npm. Kemudian, instal dependensi yang diperlukan dengan perintah:
+
   
-    npm install node-notifier moment
+    npm install 
 
 ## 2. Menjalankan Aplikasi
 Setelah dependensi terinstal, Anda dapat menjalankan aplikasi dengan perintah berikut. Pastikan Anda menentukan durasi sesi kerja dan sesi istirahat (dalam menit) sebagai argumen:
